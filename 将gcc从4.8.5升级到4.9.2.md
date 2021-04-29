@@ -85,13 +85,13 @@ Centos7自带的gcc版本为gcc-4.8.5，该版本不支持正则表达式，
 ```
 ```c
 将默认库的软连接指向最新动态库：
-``c
+```c
 	ln -s libstdc++.so.6.0.21 libstdc++.so.6
 ```
 
 默认动态库升级完成。重新运行以下命令检查动态库：
-``c
+```c
 	strings /usr/lib64/libstdc++.so.6 | grep GLIBC
 ```
 
-## 参考博客：https://blog.csdn.net/yuhuqiao/article/details/83624689
+### 参考博客：https://blog.csdn.net/yuhuqiao/article/details/83624689
