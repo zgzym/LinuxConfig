@@ -139,7 +139,8 @@
 	```c++
 		vi Makefile
 	``` 
-	![1fd](https://github.com/zgzym/LinuxConfig/blob/main/images/opencv4_1.png)
+	
+![1fd](https://github.com/zgzym/LinuxConfig/blob/main/images/opencv4_1.png)
 	
 	保存并退出。
 	
