@@ -1,6 +1,8 @@
 1.	配置Vimplus
 
-切换到root，然后输入命令：yum install git安装git；
+建议在普通用户下安装，因为目前vimplus是基于用户的，如果你想在其他用户下也能使用vimplus，也需要单独安装。
+
+然后输入命令：yum install git安装git；
 
 输入命令：
 ```c++
