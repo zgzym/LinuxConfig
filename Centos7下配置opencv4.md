@@ -150,4 +150,4 @@
 		
 		./opencv_example
 	``` 
-## 编译命令为：g++ example.cc -std=c++11 `pkg-config --libs --cflags opencv4`
+## 编译命令为：g++ example.cc -std=c++11 \`pkg-config --libs --cflags opencv4\`
