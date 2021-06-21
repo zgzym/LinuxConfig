@@ -6,7 +6,7 @@
 	
 	1.1 首先安装gcc
 	```c++
-		yum -y install gcc gcc_c++
+		yum -y install gcc gcc-c++
 	```
 		其中，参数-y表示在安装过程中默认选择“yes"
 		
